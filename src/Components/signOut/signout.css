@@ -1,0 +1,8 @@
+.sign-out {
+    height: 22px;
+    width: 22px;
+    float: right;
+    position: relative;
+    top: -24px;
+    cursor: pointer;
+  }
